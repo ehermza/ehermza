@@ -88,7 +88,7 @@ GEM
       jruby-rack (>= 1.0.9)
       trinidad_jars (>= 1.0.1)
     trinidad_jars (1.0.1)
-    tzinfo (0.3.29)
+    tzinfo (0.3.61)
     unicorn (4.1.1)
       kgio (~> 2.4)
       rack
